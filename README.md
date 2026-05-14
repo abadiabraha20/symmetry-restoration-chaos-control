@@ -7,7 +7,6 @@ This repository contains a python code for Bifurcation and Chaos Control in a Pr
 
 ## Authors
 - Abadi Abraha Asgedom (corresponding author)
-- Yohannes Yirga Kefela
 - Tewolde Assefa Welu
 
 ## Requirements
